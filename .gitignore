@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+*.env
+
+# Config locale Claude Code (permessi per macchina, non va condivisa)
+.claude/settings.local.json
+*.doctor-backup
