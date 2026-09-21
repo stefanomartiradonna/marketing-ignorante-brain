@@ -58,5 +58,11 @@ diventa una regola in `.claude/skills/marketing-ignorante-notes/references/forma
 
 ## Git
 
-Repo locale, nessun remote. I contenuti sono stati per un periodo dentro
-`System-content-flywheel`, che è pubblico, e restano nella sua history.
+Pubblico su GitHub: `github.com/stefanomartiradonna/marketing-ignorante-brain`. Stessa
+logica di portfolio degli altri repo di Stefano (System-content-flywheel, claude-brain).
+I contenuti sono stati per un periodo dentro `System-content-flywheel`, e restano nella
+sua history.
+
+Il testo integrale di articoli di terzi usato come reference di stile (non il contenuto
+di questo repo, che è tutto tuo) non vive qui: sta in `claude-private-refs`, repo privato
+— vedi `System-content-flywheel/README.md` per la mappa completa.
